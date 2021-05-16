@@ -1,0 +1,15 @@
+0 apple
+1 beef
+2 bell pepper
+3 bok choy
+4 chicken breast
+5 choy sum
+6 fish
+7 lettuces
+8 minced meat
+9 oats
+10 onion
+11 orange
+12 pork
+13 salmon
+14 spring onion

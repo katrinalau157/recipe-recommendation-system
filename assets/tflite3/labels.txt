@@ -1,0 +1,9 @@
+0 bread category
+1 drinks category
+2 fish category
+3 meat category
+4 noodles category
+5 rice category
+6 seafood category
+7 sweets category
+8 vegetables category
